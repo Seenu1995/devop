@@ -1,3 +1,4 @@
 this is my 2nd file >seenu.txt
 eho this is my 2nd file
 this ok code or check
+this is tocheck other line
